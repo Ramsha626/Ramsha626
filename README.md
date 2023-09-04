@@ -27,6 +27,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsha626&layout=compact&hide=Ruby,objective-C)](https://github.com/anuraghazra/github-readme-stats)
 
 #### How to reach me:
-![linkdln logo](https://user-images.githubusercontent.com/80584980/195365300-8d9fbe09-f6a0-47c6-a592-8ad5dba6b98c.png) ![twitter logo](https://user-images.githubusercontent.com/80584980/195367110-a623d2f6-8aba-4fc8-8b42-14e47c449045.png)
+![linkdln logo](https://user-images.githubusercontent.com/80584980/195365300-8d9fbe09-f6a0-47c6-a592-8ad5dba6b98c.png) 
 
 [Linkdln](https://linkedin.com/in/ramsha-urooj-flutter-expert)
